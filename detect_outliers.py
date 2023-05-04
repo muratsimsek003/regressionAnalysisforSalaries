@@ -1,6 +1,4 @@
 import numpy as np
-
-
 def detect_outliers(data,columns):
     outlier_indices = []
 
